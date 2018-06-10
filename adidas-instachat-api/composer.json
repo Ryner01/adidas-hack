@@ -1,0 +1,15 @@
+{
+    "name": "marekvybiral/instagram-chat-api",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Marek Vybiral",
+            "email": "marekvybiral@email.cz"
+        }
+    ],
+    "require": {
+        "mgp25/instagram-php": "^4.1",
+        "react/http": "^0.7",
+        "monolog/monolog": "^1.23"
+    }
+}

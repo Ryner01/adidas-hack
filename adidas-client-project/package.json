@@ -1,0 +1,31 @@
+{
+  "name": "adidas-client",
+  "version": "0.1.0",
+  "private": true,
+  "host": "0.0.0.0",
+  "dependencies": {
+    "mobx": "^4.3.0",
+    "mobx-react": "^5.1.2",
+    "mobx-react-router": "^4.0.4",
+    "react": "^16.4.0",
+    "react-app-rewire-mobx": "^1.0.8",
+    "react-dom": "^16.4.0",
+    "react-if": "^2.2.2",
+    "react-redux": "^5.0.7",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.4",
+    "redux": "^4.0.0",
+    "socket.io": "^2.1.1",
+    "socket.io-client": "^2.1.1"
+  },
+  "scripts": {
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build",
+    "test": "react-app-rewired test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-app-rewire-stylus-modules": "0.0.2",
+    "react-app-rewired": "^1.5.2"
+  }
+}

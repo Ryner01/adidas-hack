@@ -1,0 +1,8 @@
+export const MESSAGE_ADD = 'MESSAGE_ADD'
+export const MESSAGE_RECEIVED = 'MESSAGE_RECEIVED'
+export const MESSAGES_LIST = 'MESSAGES_LIST'
+export const ADD_USER = 'ADD_USER'
+export const USERS_LIST = 'USERS_LIST'
+export const USERS_ADD = 'USERS_ADD'
+export const USER_UPDATE_STATUS = 'USER_UPDATE_STATUS'
+export const SET_SELECTED_USER = 'SET_SELECTED_USER'

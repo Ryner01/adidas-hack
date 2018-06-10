@@ -1,0 +1,182 @@
+[
+    {
+        "name": "ULTRABOOST SHOES",
+        "img_url": "https://i.imgur.com/MITXEMo.jpg",
+        "color": "white",
+        "location": "city",
+        "size": "9'",
+        "duration": "long",
+        "gender": "women",
+        "price": 149.95
+    },
+    {
+        "name": "ULTRABOOST X SHOES",
+        "img_url": "https://i.imgur.com/7YJ5wc4.jpg",
+        "color": "white",
+        "location": "city",
+        "size": "9'",
+        "duration": "long",
+        "gender": "women",
+        "price": 179.95
+    },
+    {
+        "name": "ULTRABOOST LACELESS SHOES",
+        "img_url": "https://i.imgur.com/TCGEZie.jpg",
+        "color": "white",
+        "location": "city",
+        "size": "9'",
+        "duration": "long",
+        "gender": "women",
+        "price": 179.95
+    },
+    {
+        "name": "ULTRABOOST PARLEY SHOES",
+        "img_url": "https://i.imgur.com/7YJ5wc4.jpg",
+        "color": "white",
+        "location": "city",
+        "size": "9'",
+        "duration": "long",
+        "gender": "women",
+        "price": 219.95
+    },
+    {
+        "name": "SPEEDFACTORY AM4PAR SHOES",
+        "img_url": "https://i.imgur.com/kxhICF8.jpg",
+        "color": "blue",
+        "location": "city",
+        "size": "9'",
+        "duration": "long",
+        "gender": "women",
+        "price": 199.95
+    },
+    {
+        "name": "ADIZERO ADIOS SHOES",
+        "img_url": "https://i.imgur.com/kbpPJ29.jpg",
+        "color": "white",
+        "location": "city",
+        "size": "9'",
+        "duration": "fast",
+        "gender": "women",
+        "price": 219.95
+    },
+    {
+        "name": "ADIZERO ADIOS 3 SHOES",
+        "img_url": "https://i.imgur.com/TP7X6lb.jpg",
+        "color": "white",
+        "location": "city",
+        "size": "9'",
+        "duration": "fast",
+        "gender": "women",
+        "price": 145.95
+    },
+    {
+        "name": "ADIZERO PRIME LTD 5 YEARS SHOES",
+        "img_url": "https://i.imgur.com/gG089fw.jpg",
+        "color": "red",
+        "location": "city",
+        "size": "9'",
+        "duration": "fast",
+        "gender": "women",
+        "price": 199.95
+    },
+    {
+        "name": "SUPERNOVA TRAIL SHOES",
+        "img_url": "https://i.imgur.com/8QZiBxs.jpg",
+        "color": "black",
+        "location": "countryside",
+        "size": "9'",
+        "duration": "long",
+        "gender": "women",
+        "price": 139.95
+    },
+    {
+        "name": "SOLARBOOST SHOES",
+        "img_url": "https://i.imgur.com/FW4KITA.jpg",
+        "color": "black",
+        "location": "city",
+        "size": "9'",
+        "duration": "long",
+        "gender": "men",
+        "price": 159.95
+    },
+    {
+        "name": "ULTRABOOST UNCAGED SHOES",
+        "img_url": "https://i.imgur.com/Zhv0ORi.jpg",
+        "color": "black",
+        "location": "city",
+        "size": "9'",
+        "duration": "long",
+        "gender": "men",
+        "price": 179.95
+    },
+    {
+        "name": "ENERGY CLOUD 2 SHOES",
+        "img_url": "https://i.imgur.com/IxyPtCy.jpg",
+        "color": "black",
+        "location": "city",
+        "size": "9'",
+        "duration": "long",
+        "gender": "men",
+        "price": 64.95
+    },
+    {
+        "name": "DURAMO 8 SHOES",
+        "img_url": "http://9chat.9roads.red/static/CG4061_01_standard.jpg",
+        "color": "black",
+        "location": "city",
+        "size": "9'",
+        "duration": "long",
+        "gender": "men",
+        "price": 69.95
+    },
+    {
+        "name": "PUREBOOST SHOE",
+        "img_url": "https://i.imgur.com/Tfs5Pgu.jpg",
+        "color": "black",
+        "location": "city",
+        "size": "9'",
+        "duration": "long",
+        "gender": "men",
+        "price": 159.95
+    },
+    {
+        "name": "ULTRABOOST SHOES",
+        "img_url": "http://9chat.9roads.red/static/BB6288_01_standard.jpg",
+        "color": "white",
+        "location": "treadmill",
+        "size": "9'",
+        "duration": "short",
+        "gender": "men",
+        "price": 179.95
+    },
+    {
+        "name": "PUREBOOST SHOES",
+        "img_url": "https://i.imgur.com/DHGatzT.jpg",
+        "color": "white",
+        "location": "treadmill",
+        "size": "9'",
+        "duration": "short",
+        "gender": "men",
+        "price": 179.95
+    },
+    {
+        "name": "DURAMO LITE 2.0 SHOES",
+        "img_url": "https://i.imgur.com/2hnxjD4.jpg",
+        "color": "white",
+        "location": "treadmill",
+        "size": "9'",
+        "duration": "short",
+        "gender": "men",
+        "price": 49.95
+    },
+    {
+        "name": "ULTRABOOST LACELESS SHOES",
+        "img_url": "https://i.imgur.com/C3Rl82Z.jpg",
+        "color": "white",
+        "location": "treadmill",
+        "size": "9'",
+        "duration": "short",
+        "gender": "men",
+        "price": 199.95
+    }
+]

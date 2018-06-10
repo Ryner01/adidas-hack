@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "adidas-hack-206511",
+  "private_key_id": "9e4022baedf57a2a79a4c00ce4578534e93beb4c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCSYiIy9CJ/vcZB\nNlA9h1y5a+7HHTyMqyN+X3ryN582mqbp8MNHv4dbM15q8ZmCk/LHbJnA9njxb3r0\nrJH2VU1oOpETAFta1fm/GHKbXulpBClfD+UeFXeQrd130mCWuBj+yk1qLCPtqNEd\nmBktugKXtMzx2EwiwtQEYas6oNQEvTA/VcAK0lwWo3Fi5fxcAknmxsxPIr18pEu7\nWNlBWw1sZjNg0WomJ8ysuRPWzQhsYU4G2Y0fZ004bM1uSTxPVJQ45V8dEhV9kcJk\n/lcoHgdvH0L+NP7fxKQuTLaLP+CRu4l079ZKcPuiHO3guXJfl8LJlymPiHUzn5hb\nbgT68n9LAgMBAAECggEAGth6cyPIy+qO2FjQoGgZvjuoH8Yh255rNPrnvlIrFcWJ\nBPBNr/PVLAmgsDY8s/DUHnSxQe0xwv1x7DtVzXpZZtsOzhBLsL37PmuKYSon3kWQ\nHMn6d+jx84ufSSFA64M5ukh5qBYORMCoEShavcMWRKI4z8WeOOXIIkGTOH5UQ8Xz\nYVQkLx3qW/I+M4rtnG/bIHQ0LvMfWUH8k2ruKA9Z9TJAM45k5JzyKYd2dJMPQtiw\nEX5w94Bl5swDFoQxc/t9jHyRmvEjT5uafxHLPVWZva+WOMqKyF1PqO6K6jGWKc/f\nr0kbuhfxsgER0KO5RbXuLKif1KuamEpBgv/6ZqmuAQKBgQDLv7cQ7sf+p9M1q2t2\n2MM16Y3biqaDkJSZSixo1wKlhIgNRiTqbl4J+5yltpVkCO1E14XSKE57w0LYwNuR\nfIF/jrUUi5TwdWjcwW2ZS6Ey5cnV/oO1rH4TYKrzz5dJSZLlC86xxk+XEZ/WHtII\nSIqs4JoEipoYbnoxgIvJVK7JAQKBgQC37FJrpe6Z+CP1eaSgqXKszqeJKbc9ugV6\nDaweOG318O/clQGPWgfaiYtb3w0Gbr4+2yPhsGrFP7QmbA3MY1KBRaF0QxcoIDAC\nRcbr2CrNx0QXART/nLTrG8Eo2Vbrrwj6/XxTdMfKNQ3vGkkudpNW52q98bWoPKPc\nnXdtoEGcSwKBgH/lyZHMgih9ytxuzZed+/Q0tsKwZ1RBBrau0++/wD6MUica+ANc\n4pUbp7pyQZa478/+Blfky1dvO9/6OBo8cMHUoCDUedrzqK6ikRzgV8Euc6NsD9uT\n+tRJIybHEe2ETLyQy9/WX5GyE4aCdE+U0dAxcR0WsCJT/0phqd3o1YsBAoGAKS8W\nyZoPUpTY4HfLoFoxHnbr1u/rYzwLS+hR2TaDkOXRoBARmFrtlUblWL4aeY1Etmh1\noWzSi7aXDV92u4SmDeJco97+CXMjrO6Y+2idNRTgr1IDtLUPYfIGD7KTHxVDqogm\nVb25mxLEOv0k0+2jUnthUIUWS0TA4H62JmsTJf8CgYBxXHtv6SaKne2veyR/T3f6\nsbcqwEVDKb25602en03+CrIG0TYrM3N7w0jrwMudhhXr0mGePZtcmZdPZJBDWefJ\nkCCeOOUDykcWC03EmnvMoMInuA/uuyPSp84VW54/yRW50saFLvj8fs67rysfJlJC\neBnwwgQISxWDnvFtlAGvvA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-local@adidas-hack-206511.iam.gserviceaccount.com",
+  "client_id": "109843994977384403059",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-local%40adidas-hack-206511.iam.gserviceaccount.com"
+}

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <script
+    src="https://code.jquery.com/jquery-3.3.1.min.js"
+    integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+    crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.1.1/socket.io.dev.js"></script>
+</head>
+<body>
+    <div id="list"></div>
+    <textarea name="" id="area" cols="30" rows="10"></textarea>
+
+    <script>
+        let area = $('#area')
+        let list = $('#list')
+        let user;
+
+        let con = io('https://9chat.9roads.red/')
+        //let con = io('http://localhost:5000')
+
+        area.keyup(function(e) {
+            var code = e.keyCode ? e.keyCode : e.which;
+            if (code == 13) {  // Enter keycode
+                let value = area.val()
+                con.emit('test-message', {
+                    userId: 'fdbdfgsdfadfsdf',
+                    text: value.replace(/(\r\n\t|\n|\r\t)/gm,""),
+                })
+                area.val('')
+            }
+        });
+
+        con.on('new-message', function(data) {
+            console.log(data)
+        })
+
+        con.on('users-list', function(data) {
+            user = data[0]
+            console.log(data)
+        })
+
+        con.on('users-add', function(data) {
+            user = data[0]
+            console.log(data)
+        })
+    </script>
+</body>
+</html>
