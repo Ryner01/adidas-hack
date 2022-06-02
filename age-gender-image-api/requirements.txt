@@ -6,7 +6,7 @@ cycler==0.10.0
 dlib==19.9.0
 enum34==1.1.6
 Flask==0.12.2
-html5lib==0.9999999
+html5lib==0.99999999
 idna==2.6
 imutils==0.4.5
 itsdangerous==0.24
