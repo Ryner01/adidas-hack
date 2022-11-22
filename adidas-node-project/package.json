@@ -20,7 +20,7 @@
     "request": "^2.87.0",
     "request-promise-native": "^1.0.5",
     "shortid": "^2.2.8",
-    "socket.io": "^2.1.1",
+    "socket.io": "^2.5.0",
     "socket.io-client": "^2.1.1"
   },
   "devDependencies": {
