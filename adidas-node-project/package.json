@@ -14,7 +14,7 @@
     "body-parser": "^1.18.3",
     "dialogflow": "^0.5.0",
     "dialogflow-fulfillment": "^0.4.1",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "instagram-private-api": "^0.6.7",
     "lodash": "^4.17.10",
     "request": "^2.87.0",
